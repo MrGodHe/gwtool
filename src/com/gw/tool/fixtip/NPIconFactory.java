@@ -1,11 +1,11 @@
 /*
- * Copyright (C) 2015 Jack Jiang(cngeeker.com) The Swing9patch Project. 
+ * Copyright (C) 2015 Jack Jiang(cngeeker.com) The Swing9patch Project.
  * All rights reserved.
  * Project URL:https://github.com/JackJiang2011/Swing9patch
  * Version 1.0
- * 
+ *
  * Jack Jiang PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- * 
+ *
  * NPIconFactory.java at 2015-2-6 16:10:04, original version by Jack Jiang.
  * You can contact author with jb2011@163.com.
  */

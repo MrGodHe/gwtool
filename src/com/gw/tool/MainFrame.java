@@ -1,14 +1,4 @@
-/*
- * Copyright (C) 2015 Jack Jiang(cngeeker.com) The Swing9patch Project. 
- * All rights reserved.
- * Project URL:https://github.com/JackJiang2011/Swing9patch
- * Version 1.0
- * 
- * Jack Jiang PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- * 
- * MainFrame.java at 2015-2-6 16:10:04, original version by Jack Jiang.
- * You can contact author with jb2011@163.com.
- */
+
 package com.gw.tool;
 
 import javax.swing.*;
@@ -96,11 +86,7 @@ public class MainFrame extends JFrame
 //		aboutMenuItem.addActionListener(new ActionListener(){
 //			public void actionPerformed(ActionEvent e)
 //			{
-//				JOptionPane.showMessageDialog(rootPane, "Swing9patch" +
-//						"\n - 本工程是一组利用BeautyEye工程相同基础技术实现的Swing组件或UI效果." +
-//						"\n - 工程内的UI组件或效果都可方便地抽取出来用于您的项目." +
-//						"\n - 本工程是BeautyEye的衍生工程，开发于2012年底，作是Jack Jiang(jb2011@163.com)." +
-//						"\n");
+//				JOptionPane.showMessageDialog(rootPane, "");
 //			}
 //		});
 //		aboutMenu.add(aboutMenuItem);
