@@ -1,9 +1,11 @@
-
+ 学习java GUI
+ 
  gwtool -- java简单桌面图形小工具
  
 
  # 打包工具
     1、java -> 打包jar， 编译器即可（idea 、eclipse）
+        
     2、jar -> 打包exe （运行已经安装jre的环境）， 推荐exe4j工具
     3、exe安装版（未安装jre的环境），推荐 Inno Setup Compiler程序
        官方下载地址如下：
