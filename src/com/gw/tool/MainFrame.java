@@ -31,6 +31,7 @@ public class MainFrame extends JFrame
 	{
 		JTabbedPane tbs = new JTabbedPane();
 		tbs.add(new com.gw.tool.fixtip.Demo(), "报文解密");
+		tbs.add(new com.gw.tool.fixtip.WycReportJPanel(), "网约车对账单解析");
 //		tbs.add(new com.gw.tool.popup.Demo(), "Cool tooltip");
 //		tbs.add(new com.gw.tool.photoframe.Demo(), "Photo frame");
 //		tbs.add(new JPanel(), "Cool border demo");
